@@ -1,0 +1,79 @@
+#bodyIndex{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("libros.jpg");
+    margin-top: 70px;
+    margin-right: 70px;
+    margin-bottom: 70px;
+    margin-left: 70px;
+}
+
+#bodyAutor{
+         background-color: white;
+         background-repeat: no-repeat;
+         background-size: cover;
+         background-image: url("libros.jpg");
+         margin-top: 70px;
+         margin-right: 70px;
+         margin-bottom: 70px;
+         margin-left: 70px;
+}
+#bodyEditorial{
+     background-color: white;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-image: url("libros.jpg");
+     margin-top: 70px;
+     margin-right: 70px;
+     margin-bottom: 70px;
+     margin-left: 70px;
+}
+#bodyLibro{
+     background-color: white;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-image: url("libros.jpg");
+     margin-top: 70px;
+     margin-right: 70px;
+     margin-bottom: 70px;
+     margin-left: 70px;
+}
+
+.container-fluid{
+    font-size: 25px;
+    background:transparent;
+}
+
+.navbar-brand{
+    opacity: 0.9;
+    font-size: 35px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.rounded{
+    opacity:0.7;
+}
+
+.dropdown-menu{
+    font-size: 20px;
+}
+
+.list-group-item{
+    background-color: rgb(224, 230, 220);
+}
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.form-control {
+    width: 50%;
+}
+
+
+
+label {
+    text-align: left;
+}
